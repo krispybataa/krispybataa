@@ -2,14 +2,16 @@
 
 ## 👤 About me
 
-- ✨ Aspring Clinical Systems Analyst 
-- 🌱 Budding Full-stack developer focused on creating comprehensive solutions
-- 📚 Pursuing a Bachelor's degree in Computer Science at the University of the Philippines Manila
-- ⚕️ Majoring in Biomedical Informatics
+* ✨ Aspiring Blockchain Healthcare Analyst
+* 🌱 Budding Full-stack developer focused on creating comprehensive solutions
+* 📚 Pursuing a Bachelor's degree in Computer Science at the University of the Philippines Manila
+* ⚕️ Majoring in Biomedical Informatics
+* 🔗 Aspiring toward careers integrating Blockchain technology with healthcare information systems
 
 ## 🚀 What I'm up to
 
-<!-- This section is intentionally left blank for now -->
+* Currently exploring and gaining proficiency in Blockchain technologies and related concepts, particularly with applications in healthcare and information systems.
+
 
 ## 🛠️ Skills & tools
 
