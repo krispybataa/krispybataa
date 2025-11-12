@@ -2,7 +2,6 @@
 
 ## 👤 About me
 
-* ✨ Aspiring Blockchain Healthcare Analyst
 * 🌱 Budding Full-stack developer focused on creating comprehensive solutions
 * 📚 Pursuing a Bachelor's degree in Computer Science at the University of the Philippines Manila
 * ⚕️ Majoring in Biomedical Informatics
