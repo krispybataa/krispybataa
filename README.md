@@ -9,7 +9,7 @@
 
 ## 🚀 What I'm up to
 
-* Currently exploring and gaining proficiency in Blockchain technologies and related concepts, particularly with applications in healthcare and information systems.
+* Surviving
 
 
 ## 🛠️ Skills & tools
