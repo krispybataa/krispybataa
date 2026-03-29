@@ -8,7 +8,7 @@ Computer Science student at the University of the Philippines Manila, specializi
 
 - Finishing a BS in Computer Science (Biomedical Informatics) at UP Manila
 - Interested in careers that connect Blockchain technology with healthcare information systems
-- Open to full-time roles and internships starting mid-2025
+- Open to full-time roles and internships starting mid-2026
 
 ---
 
