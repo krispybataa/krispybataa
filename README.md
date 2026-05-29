@@ -1,6 +1,6 @@
 # Hello There 🦘
 
-Computer Science student at the University of the Philippines Manila, specializing in Biomedical Informatics. I build full-stack solutions at the intersection of healthcare and technology — and I'm currently in my final semester, actively exploring opportunities in software development and blockchain-integrated health systems.
+Computer Science student at the University of the Philippines Manila, specializing in Biomedical Informatics, completing my final semester pending graduation. Background spans full-stack development, clinical systems design, and applied machine learning, with published research in explainable AI for healthcare. Seeking opportunities in software development and health informatics where technical work has direct operational impact.
 
 ---
 
